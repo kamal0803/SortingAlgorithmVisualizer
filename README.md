@@ -1,0 +1,1 @@
+Implemented a sorting algorithm visualizer in Python which picks up random numbers and sorts them using popular sorting algorithms such as Selection Sort, Bubble Sort, Quick Sort, etc. based on user input.
